@@ -1,1 +1,2 @@
-# mango
+This file is created to practice the working of github so you will find no codes here
+sorry man....
